@@ -1,0 +1,150 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+#logo{
+
+padding: 20px;
+margin-left: 800px;
+
+margin-top: 0px;
+
+
+
+
+
+}
+a{
+    color:white;
+}
+a:hover{
+    color: #C77BF4;
+}
+#head{
+position: absolute;
+margin-top: 15px;
+width: 200px;
+margin-left: 100px;
+color: white;
+font-size: 20px;
+}
+
+
+.link{
+
+font-size: 20px;
+padding: 15px;
+margin: 10px;
+text-decoration: none;
+
+
+}
+
+#nav{
+
+width:100%;
+height: 140px;
+background: rgba(0, 0, 0, .12);
+position: fixed;
+
+}
+.cold{
+    height:750px;
+    width: 100%;
+    background-size:cover;
+    position:absolute;
+}
+#pic{
+    background-image: url(https://knight-bite.com/res/about/banner.webp);
+    height: 750px;
+}
+#heading{
+    font-size: 50px;
+    color: white;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 200px;
+    
+}
+#main{
+    height:300px;
+
+
+    
+}
+.pic-1{
+    margin-top: 100px;
+    position: absolute;
+}
+#line{
+    color: #424242;
+    margin-left: 850px;
+    margin-top: 100px;
+    position: absolute;
+    font-size: 20px;
+
+}
+
+#main-2{
+    height:600px;
+    position: relative;
+}
+.pic-3{
+    width:600px;
+    height:400px;
+    position: absolute;
+    right: 200px;
+    top:0px;
+    
+}
+
+#line-2{
+position: absolute;
+font-size: 20px;
+top:100px;
+left:50px;
+}
+
+#main-3{
+    position: relative;
+    
+}
+.pic-4{
+    width: 650px;
+    height: 500px;
+    margin-left: 50px;
+}
+#line-3{
+    position: absolute;
+    right: 0px;
+    top:200px;
+    font-size: 18px;
+}
+
+#location{
+    height: 500px;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+#last{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+p{
+ color: #424242;
+ font-size: 40px;
+}
+
+#foot-2{
+    height:400px;
+    border:2px solid red;
+}
+#copy{
+    height: 50px;
+    background: linear-gradient(90deg, #C77BF4 0%, #FF5672 100%);
+    text-align: center;
+    
+    font-size: 20px;
+}
